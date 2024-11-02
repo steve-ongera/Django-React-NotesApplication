@@ -1,5 +1,5 @@
 <div align="center">
-<img width="50%" src="http://i3.ytimg.com/vi/tYKRAXIio28/maxresdefault.jpg"/>
+
 
 # Django & React Notes App
 </div>
@@ -8,7 +8,7 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/Django-React-NotesApp.git
+git clone https://github.com/steve-ongera/Django-React-NotesApplication.git
 
 ```
 
@@ -47,10 +47,9 @@ python manage.py runserver
 
 #
 
-### App Preview :
+### Contact :
 
-<div align="center">
-<img width="50%" src="https://www.linkpicture.com/q/Notes.png"/>
-</div>
+--> steveongerah@gmail.com
+--> +254112284093
 
 #
